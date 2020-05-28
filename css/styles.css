@@ -10,6 +10,23 @@
 
 .name {
   text-align: center;
+  text-shadow: 2px;
+  font-size: 24px;
   font-weight: bold;
   font-family: fantasy;
+}
+
+img {
+  align-content: center;
+}
+
+@media screen and (max-width: 1000px) and (min-width: 700px)  {
+  body  {
+    background-color: slategray;
+  }
+  .profile  {
+    width: 300px;
+    float: left;
+    padding: 20px;
+  }
 }
