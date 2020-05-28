@@ -1,0 +1,15 @@
+.profile {
+  margin: 2px;
+  border: 2px;
+  padding: 4px;
+  background-color: antiquewhite;
+  float: left;
+  width: auto;
+  text-align: inherit;
+}
+
+.name {
+  text-align: center;
+  font-weight: bold;
+  font-family: fantasy;
+}
